@@ -37,6 +37,10 @@ export const Route = createRootRoute({
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Aman Construction & Interior" },
+      { name: "twitter:description", content: "Construction and interior design services in Greater Noida." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/28da63ad-9bc6-462a-a4da-4d59d7533b2c/id-preview-7fb6f0ac--685200be-488a-4f06-a620-471e55403ee8.lovable.app-1777379361214.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/28da63ad-9bc6-462a-a4da-4d59d7533b2c/id-preview-7fb6f0ac--685200be-488a-4f06-a620-471e55403ee8.lovable.app-1777379361214.png" },
     ],
     links: [
       {
